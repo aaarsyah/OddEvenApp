@@ -1,0 +1,14 @@
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\bin\Debug\net9.0\OddEventApp.exe
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\bin\Debug\net9.0\OddEventApp.deps.json
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\bin\Debug\net9.0\OddEventApp.runtimeconfig.json
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\bin\Debug\net9.0\OddEventApp.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\bin\Debug\net9.0\OddEventApp.pdb
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.AssemblyInfoInputs.cache
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.AssemblyInfo.cs
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.csproj.CoreCompileInputs.cache
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\refint\OddEventApp.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.pdb
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.genruntimeconfig.cache
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\ref\OddEventApp.dll
