@@ -12,3 +12,4 @@ E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\Odd
 E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.pdb
 E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.genruntimeconfig.cache
 E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\ref\OddEventApp.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\OddEventApp\obj\Debug\net9.0\OddEventApp.sourcelink.json

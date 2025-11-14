@@ -26,52 +26,56 @@ class Program
      * @PARAM Limit: Batas akhir. minimal 1, tidak boleh O atau negatif.
      * @PARAM choice: Pilihan, hanya boleh "Even" atau "Odd". Selain itu invalid
      */
+
+    static bool IsNotBelowThanOne(int limit)
+    {
+        return limit < 1;
+    }
+
+    static bool IsChoiceNotEvenOrOdd(string choice)
+    {
+        return choice != "Genap" && choice != "genap" && choice != "Ganjil" && choice != "ganjil";
+    }
     static void PrintEvenOdd(int limit, string choice)
     {
-        if (limit >= 1)
+        if (IsNotBelowThanOne(limit))
         {
-            if (choice == "Genap" || choice == "genap")
-            {
-                for (int i = 1; i <= limit; i++)
-                {
-                    if (i % 2 == 0)
-                    {
-                        if (i == limit || i == limit - 1)
-                        {
-                            Console.Write(i);
-                        }
-                        else
-                            Console.Write(i + ",");
-                    }
+            Console.WriteLine("Input limit tidak valid!");
+            return;
+        }
 
-                }
-            }
-            else if (choice == "Ganjil" || choice == "ganjil")
+        if (IsChoiceNotEvenOrOdd(choice))
+        {
+            Console.WriteLine("Input pilihan tidak valid!");
+            return;
+        }
+
+        int modularResult = 1;
+        if (choice == "Genap" || choice == "genap")
+        {
+            modularResult = 0;
+        }
+
+        Console.Write($"Print Bilangan 1 - {limit}: ");
+        for (int i = 1; i <= limit; i++)
+        {
+            if (i % 2 != modularResult)
             {
-                for (int i = 1; i <= limit; i++)
-                {
-                    if (i % 2 != 0)
-                    {
-                        if (i == limit || i == limit - 1)
-                        {
-                            Console.Write(i);
-                        }
-                        else
-                            Console.Write(i + ",");
-                    }
-                }
+                continue;
+            }
+
+            if (i == limit || i == limit - 1)
+            {
+                Console.Write(i);
             }
             else
             {
-                Console.WriteLine("Input pilihan tidak valid!");
+                Console.Write(i + ",");
             }
         }
-        else
-        {
-            Console.WriteLine("Input limit tidak valid!");
-        }
-
     }
+
+
 
     /*
      * ex: EvenOddCheck(5);
@@ -101,28 +105,22 @@ class Program
     {
         int menu;
 
-        do
+        while (true)
         {
             Menu();
             Console.Write("Pilihan : ");
             menu = Convert.ToInt32(Console.ReadLine());
-            switch (menu)
+            try
             {
-                case 1:
-                    try
-                    {
+                switch (menu)
+                {
+                    case 1:
                         Console.Write("Masukkan bilangan yang ingin dicek: ");
                         int angka = Convert.ToInt32(Console.ReadLine());
                         CheckEvenOrOdd(angka);
-                    }
-                    catch (FormatException)
-                    {
-                        Console.WriteLine("Input tidak valid!");
-                    }
-                    break;
-                case 2:
-                    try
-                    {
+
+                        break;
+                    case 2:
                         Console.Write("Pilih Ganjil/Genap: ");
                         string choice = Console.ReadLine();
 
@@ -131,17 +129,16 @@ class Program
                         int limit = Convert.ToInt32(Console.ReadLine());
 
                         PrintEvenOdd(limit, choice);
-                    }
-                    catch (FormatException)
-                    {
-                        Console.WriteLine("Input tidak valid!");
-                    }
-                    break;
-                case 3:
-                    Console.WriteLine("Exit");
-                    break;
+                        break;
+                    case 3:
+                        Console.WriteLine("Exit");
+                        return;
+                }
             }
-        } while (menu != 3);
-
+            catch
+            {
+                Console.WriteLine("INVALID!!");
+            }
+        }
     }
 }
