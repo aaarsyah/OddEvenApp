@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj": {}
+    "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj": {}
   },
   "projects": {
-    "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj": {
+    "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj",
+        "projectUniqueName": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj",
         "projectName": "OddEventApp",
-        "projectPath": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj",
+        "projectPath": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\OddEventApp.csproj",
         "packagesPath": "C:\\Users\\arry_\\.nuget\\packages\\",
-        "outputPath": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\obj\\",
+        "outputPath": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\OddEventApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arry_\\AppData\\Roaming\\NuGet\\NuGet.Config"
