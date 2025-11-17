@@ -1,0 +1,14 @@
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.exe
+e:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.deps.json
+e:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.runtimeconfig.json
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\bin\Debug\net9.0\BasicProgramming.pdb
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.AssemblyInfoInputs.cache
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.AssemblyInfo.cs
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.csproj.CoreCompileInputs.cache
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\refint\BasicProgramming.dll
+E:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.pdb
+e:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\BasicProgramming.genruntimeconfig.cache
+e:\Documents\KULIAH S1 TEKNIK INFORMATIKA\Magang MII (MetroData)\Fundamental\BasicProgramming\obj\Debug\net9.0\ref\BasicProgramming.dll
